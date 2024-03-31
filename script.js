@@ -1,3 +1,3 @@
-let url = window.location.href
-let n = url.length
-alert(`The length of the url is: ${n}`)
+let currUrl = window.location.href
+let n = currUrl.length
+alert(`The length of the URL is: `+n)
